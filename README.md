@@ -38,14 +38,16 @@ The shell includes memory cleanup for command tokens and history.
 ### Compile
 ```
 cmake -S . -B build
-
+```
+```
 cmake --build build
 ```
 
 ### Run
 ```
 ./shell
-
+```
+```
 ./shell_test
 ```
 
