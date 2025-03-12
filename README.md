@@ -1,4 +1,4 @@
-# Simple Shell in C
+# Custom-Command-Line-Shell
 
 This project is a basic shell implemented in C that allows users to run commands in both foreground and background, manage command history, and utilize basic shell commands.
 
